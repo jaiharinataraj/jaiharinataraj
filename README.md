@@ -13,4 +13,4 @@ I believe data is valuable only when it helps solve a real problem. My projects 
 ## Reach Out & Socials
 
 **Email** sjaiharinataraj@gmail.com <br/> 
-**Portfolio** [jaihari.dev](https://www.jaihari.dev) &nbsp; **LinkedIn** [jaihari](https://www.linkedin.com/in/jaihari/) &nbsp; **X** [ijaihari](https://x.com/ijaihari)
+**Portfolio** [jaihari.dev](https://www.jaihari.dev) &nbsp; **LinkedIn** [jaihari](https://www.linkedin.com/in/jaiharinataraj/) &nbsp; **X** [ijaihari](https://x.com/jaiharinataraj)
