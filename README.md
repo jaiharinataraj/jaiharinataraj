@@ -1,4 +1,4 @@
-# Hello, I'm Jai Hari Nataraj, A Data Analyst
+# Hello, I'm Jai Hari Nataraj, Data & Business Analyst
 
 <p align='justify'>
 I believe data is valuable only when it helps solve a real problem. My projects are driven by business questions, not datasets, with a focus on uncovering actionable insights, measuring impact, and supporting better decisions. I enjoy transforming complex, messy data into clear stories that improve performance, reduce risk, and create meaningful business value.
